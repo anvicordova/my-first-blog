@@ -6,7 +6,7 @@ This blog was created at #DjangoGirls workshop from #ArgentinaEnPython (@argenpy
 If you are interested in learning Python and Django please refer to the [tutorial] (http://tutorial.djangogirls.org/)
 
 For more info please visit:
-* [Argentina en Python] (argentinaenpython.com.ar)
+* [Argentina en Python] (https://argentinaenpython.com.ar)
 * [Django Girls] (https://djangogirls.org)
 
 
